@@ -1,0 +1,2 @@
+# Numerical-implementation-of-setup-from-Experimental-high-dimensional-QKD-with-OAM
+This repository contains a numerical simulation of structured light propagation through a set-up based on the paper "Experimental high-dimensional quantum key distribution with orbital angular momentum" from Zhongqi Sun, Yue Li, and Haiqiang Ma. The original paper can with this link: https://doi.org/10.1364/JOSAB.507195
